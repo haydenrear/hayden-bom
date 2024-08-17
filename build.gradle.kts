@@ -1,7 +1,6 @@
 plugins {
     `java-platform`
     `maven-publish`
-
 }
 
 group = "com.hayden"
